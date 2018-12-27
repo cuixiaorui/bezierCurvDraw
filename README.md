@@ -18,16 +18,17 @@
 
 ### 功能
 - 可动态编辑参数
+    1. MaxError: 最大错误控制点(越小生成的线条准确点越高) 
+    2. Tension: 张力(可控制曲线的样式)
+    3. Segments: 精准度(越大线条越平滑,生成的点也更多）
 - 可拖拽控制点
 - 可在线条空白处生成控制点
 - 双击线条可选中（改变颜色）
-<iframe 
-    height=450 
-    width=800 
-    src='https://cuixiaorui.github.io/bezierCurvDraw/dist/index.html' 
-    frameborder=0 
-    'allowfullscreen'>
-</iframe>
+
+![](https://user-gold-cdn.xitu.io/2018/12/27/167ef1fbd9e3e251?w=1752&h=1136&f=jpeg&s=77339)
+
+[演示地址](https://cuixiaorui.github.io/bezierCurvDraw/dist/index.html)
+
 
 ### 说明
 demo 基于 egret 编写，在 canvas 的基础上实现的。
