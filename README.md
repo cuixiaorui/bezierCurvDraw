@@ -2,10 +2,7 @@
 基于贝塞尔曲线拟合算法实现绘制平滑曲线
 
 ## 算法
- *  JavaScript implementation of
- *  Algorithm for Automatically Fitting Digitized Curves
- *  by Philip J. Schneider
- *  "Graphics Gems", Academic Press, 1990
+   JavaScript implementation of Algorithm for Automatically Fitting Digitized Curves by Philip J. Schneider "Graphics Gems", Academic Press, 1990
 
 
 ## 实现
@@ -34,3 +31,7 @@
 demo 基于 egret 编写，在 canvas 的基础上实现的。
 - 生成贝塞尔曲线点的库为 curve 
 - 生成绘制点的逻辑在 DrawCurveCore.ts 内
+
+## 参考
+- https://github.com/soswow/fit-curve
+- https://github.com/088haizi/cardinal-spline-js
