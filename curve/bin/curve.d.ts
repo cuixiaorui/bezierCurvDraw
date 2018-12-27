@@ -1,0 +1,1 @@
+declare function fitCurve(points: any,maxError:any,progressCallback): void;

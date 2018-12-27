@@ -1,0 +1,5 @@
+{
+	"name": "demo",
+	"compilerVersion": "5.2.8",
+	"typings": "typings/curve.d.ts"
+}

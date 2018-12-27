@@ -1,0 +1,13 @@
+{
+	"compilerOptions": {
+		"target": "es5",
+		"noImplicitAny": false,
+		"sourceMap": false,
+		"declaration": false,  
+		"outFile": "bin/curve.js",
+		"allowJs": true  
+	},
+	"include": [
+		"src"
+	]
+}

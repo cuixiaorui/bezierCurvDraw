@@ -1,0 +1,29 @@
+{
+  "engineVersion": "5.2.8",
+  "compilerVersion": "5.2.8",
+  "template": {},
+  "target": {
+    "current": "web"
+  },
+  "modules": [
+    {
+      "name": "egret"
+    },
+    {
+      "name": "game"
+    },
+    {
+      "name": "tween"
+    },
+    {
+      "name": "assetsmanager"
+    },
+    {
+      "name": "promise"
+    },
+    {
+      "name":"curve",
+      "path":"./libs/curve"
+    }
+  ]
+}
